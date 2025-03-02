@@ -1,4 +1,12 @@
-RunUO Dockerfiles
+#RunUO Dockerfiles
+
+For build uses 
+
+1. RunUO release 2.7 (https://github.com/runuo/runuo/archive/refs/tags/v2.7.tar.gz)
+
+2. fixes from this issue https://github.com/runuo/runuo/issues/50
+
+3. neruns distro scripts (https://github.com/nerun/runuo-nerun-distro/releases/download/153/NerunsDistro-r153.zip)
 
 Need set environment variable UOPath and mount volumes /data (volume for server files), /UO (volume with UO client files)
 
