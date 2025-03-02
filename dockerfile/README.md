@@ -50,7 +50,7 @@ runuo_i2p`
 during first startup will created i2p hostname which need save for next creating client tunnels.conf
 my client clients conf is
 
-`[runuo]
+[runuo]
 
 type = client
 
@@ -60,7 +60,7 @@ port = 2593
 
 destination = iwgbbjqgd5tlfbd63a67ytwnpz337j7ktmdznsvfpnmntpuhhoyq.b32.i2p
 
-destinationport = 2593`
+destinationport = 2593
 
 
 
